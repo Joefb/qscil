@@ -121,5 +121,39 @@ items = {
         "Rune of the Astral": "wiz Lvl 49 Supernova/Ice Comet",
         "Rune of Impetus": "wiz Lvl 49 Supernova",
         "Rune of Ap'Sagor": "wiz Lvl 49 Wrath of Al'Kabor",
-        "Rune of Frost": "wiz Lvl 49 Ice Comet"
+        "Rune of Frost": "wiz Lvl 49 Ice Comet",
+        ### Spell Quests
+        ### Enchanter
+        "Spell: Color Slant": "enc 100p - Quest 100-700p",
+        "Spell: Cripple": "enc/sham 50p -  Quest enc 100-700/sham 100-500 ",
+        "Spell: Dementia": "enc 100p - Quest 100-700p",
+        "Spell: Theft of Thought": "enc 100p - Quest 100-700p",
+        ### Mage
+        "Spell: Bristlebane's Bundle": "mag 50p - Quest 100p",
+        "Spell: Gift of Xev": "mag 50p - Quest 100p",
+        "Spell: Quiver of Marr": "mag 100p - Quest 100p",
+        "Spell: Scars of Sigil": "mag 100p - Quest 100p",
+        ### Wizard
+        "Spell: Atol's Spectral Shackles": "wiz 100p - Quest 100-800p",
+        "Spell: Inferno of Al`Kabor": "wiz 100p - Quest 100-800p",
+        "Spell: Pillar of Frost": "wiz 50p - Quest 100-800p",
+        "Spell: Tears of Druzzil": "wiz 100p - Quest 100-800p",
+        ### Necro
+        "Spell: Convergence": "nec 100p - Quest 100-500p",
+        "Spell: Defoliation": "nec 50p - Quest 100-500p",
+        "Spell: Splurt": "nec 100p - Quest 100-500p",
+        "Spell: Thrall of Bones": "nec 100p - Quest 100-500p",
+        ### Shaman
+        "Spell: Cannibalize III": "sham 100p - Quest 100-500p",
+        "Spell: Spirit of Scale": "sham/dru 100p - Quest sham 100-500p/dru 150-700",
+        "Spell: Talisman of Jasinth": "sham 100p - Quest 100-500p",
+        ### Cleric
+        "Spell: Death Pact": "clr 50p - Quest 50-100p",
+        "Spell: Reckoning": "clr 100p - Quest 50-100p",
+        "Spell: Upheaval": "clr/dru 150p - Quest dru 50-700p/clr 50-100p",
+        "Spell: Yaulp IV": "clr/pal 50p - Quest 50-100p",
+        ### Druid
+        "Spell: Circle of Summer": "dru 200p - Quest 150-700p",
+        "Spell: Circle of Winter": "dru 100p - Quest 150-700p",
+        "Spell: Form of the Howler": "dru 400p - Quest 150-700p"
 }
